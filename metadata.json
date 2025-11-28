@@ -1,0 +1,8 @@
+{
+  "name": "Curated: The Modern Stylist",
+  "description": "A premium AI-powered styling experience for the modern adult. Features virtual try-ons with high-fidelity avatars, natural movement video generation using Veo, and personalized style consultation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
